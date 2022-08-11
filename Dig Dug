@@ -1,2 +1,2 @@
 https://tryhackme.com/room/digdug
-dig @10.10.68.213 givemetheflag.com
+dig @server-ip givemetheflag.com
